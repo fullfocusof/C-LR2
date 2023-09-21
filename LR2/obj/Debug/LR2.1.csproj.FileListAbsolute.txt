@@ -1,0 +1,10 @@
+E:\Projects\C#\LR2\LR2\bin\Debug\LR2.exe.config
+E:\Projects\C#\LR2\LR2\bin\Debug\LR2.exe
+E:\Projects\C#\LR2\LR2\bin\Debug\LR2.pdb
+E:\Projects\C#\LR2\LR2\obj\Debug\LR2.1.csproj.AssemblyReference.cache
+E:\Projects\C#\LR2\LR2\obj\Debug\LR2.Properties.Resources.resources
+E:\Projects\C#\LR2\LR2\obj\Debug\LR2.1.csproj.GenerateResource.cache
+E:\Projects\C#\LR2\LR2\obj\Debug\LR2.1.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR2\LR2\obj\Debug\LR2.exe
+E:\Projects\C#\LR2\LR2\obj\Debug\LR2.pdb
+E:\Projects\C#\LR2\LR2\obj\Debug\LR2.DrawLinesForm.resources

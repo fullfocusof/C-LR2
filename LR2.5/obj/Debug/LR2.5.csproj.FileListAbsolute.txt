@@ -1,0 +1,10 @@
+E:\Projects\C#\LR2\LR2.5\bin\Debug\LR2.5.exe.config
+E:\Projects\C#\LR2\LR2.5\bin\Debug\LR2.5.exe
+E:\Projects\C#\LR2\LR2.5\bin\Debug\LR2.5.pdb
+E:\Projects\C#\LR2\LR2.5\obj\Debug\LR2.5.csproj.AssemblyReference.cache
+E:\Projects\C#\LR2\LR2.5\obj\Debug\LR2._5.BrokenLineForm.resources
+E:\Projects\C#\LR2\LR2.5\obj\Debug\LR2._5.Properties.Resources.resources
+E:\Projects\C#\LR2\LR2.5\obj\Debug\LR2.5.csproj.GenerateResource.cache
+E:\Projects\C#\LR2\LR2.5\obj\Debug\LR2.5.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR2\LR2.5\obj\Debug\LR2.5.exe
+E:\Projects\C#\LR2\LR2.5\obj\Debug\LR2.5.pdb

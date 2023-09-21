@@ -1,0 +1,10 @@
+E:\Projects\C#\LR2\LR2.4\bin\Debug\LR2.4.exe.config
+E:\Projects\C#\LR2\LR2.4\bin\Debug\LR2.4.exe
+E:\Projects\C#\LR2\LR2.4\bin\Debug\LR2.4.pdb
+E:\Projects\C#\LR2\LR2.4\obj\Debug\LR2.4.csproj.AssemblyReference.cache
+E:\Projects\C#\LR2\LR2.4\obj\Debug\LR2._4.Properties.Resources.resources
+E:\Projects\C#\LR2\LR2.4\obj\Debug\LR2.4.csproj.GenerateResource.cache
+E:\Projects\C#\LR2\LR2.4\obj\Debug\LR2.4.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR2\LR2.4\obj\Debug\LR2.4.exe
+E:\Projects\C#\LR2\LR2.4\obj\Debug\LR2.4.pdb
+E:\Projects\C#\LR2\LR2.4\obj\Debug\LR2._4.TriangleForm.resources

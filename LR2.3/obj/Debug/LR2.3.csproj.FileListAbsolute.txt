@@ -1,0 +1,10 @@
+E:\Projects\C#\LR2\LR2.3\bin\Debug\LR2.3.exe.config
+E:\Projects\C#\LR2\LR2.3\bin\Debug\LR2.3.exe
+E:\Projects\C#\LR2\LR2.3\bin\Debug\LR2.3.pdb
+E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2.3.csproj.AssemblyReference.cache
+E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2._3.EllipseForm.resources
+E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2._3.Properties.Resources.resources
+E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2.3.csproj.GenerateResource.cache
+E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2.3.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2.3.exe
+E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2.3.pdb

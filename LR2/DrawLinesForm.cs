@@ -43,8 +43,6 @@ namespace LR2
             {
                 Graph.DrawLine(MyPen, x, y, e.X, e.Y);
             }
-            x = e.X;
-            y = e.Y;
         }
     }
 }

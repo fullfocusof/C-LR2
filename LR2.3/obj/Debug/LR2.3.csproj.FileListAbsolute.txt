@@ -8,3 +8,14 @@ E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2.3.csproj.GenerateResource.cache
 E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2.3.csproj.CoreCompileInputs.cache
 E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2.3.exe
 E:\Projects\C#\LR2\LR2.3\obj\Debug\LR2.3.pdb
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\bin\Debug\LR2.3.exe.config
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\bin\Debug\LR2.3.exe
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\bin\Debug\LR2.3.pdb
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\obj\Debug\LR2.3.csproj.AssemblyReference.cache
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\obj\Debug\LR2.3.csproj.SuggestedBindingRedirects.cache
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\obj\Debug\LR2._3.EllipseForm.resources
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\obj\Debug\LR2._3.Properties.Resources.resources
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\obj\Debug\LR2.3.csproj.GenerateResource.cache
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\obj\Debug\LR2.3.csproj.CoreCompileInputs.cache
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\obj\Debug\LR2.3.exe
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.3\obj\Debug\LR2.3.pdb

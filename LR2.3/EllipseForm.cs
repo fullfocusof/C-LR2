@@ -49,7 +49,6 @@ namespace LR2._3
                 int u = Rand.Next(256);
                 int o = Rand.Next(256);
                 int v = Rand.Next(256);
-
                 MyBrush = new SolidBrush(Color.FromArgb(u, o, v));
 
                 //fillColor = Color.FromArgb(new Random().Next(256), new Random().Next(256), new Random().Next(256));

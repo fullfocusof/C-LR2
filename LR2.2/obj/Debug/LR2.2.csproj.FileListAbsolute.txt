@@ -8,3 +8,14 @@ E:\Projects\C#\LR2\LR2.2\obj\Debug\LR2.2.csproj.CoreCompileInputs.cache
 E:\Projects\C#\LR2\LR2.2\obj\Debug\LR2.2.exe
 E:\Projects\C#\LR2\LR2.2\obj\Debug\LR2.2.pdb
 E:\Projects\C#\LR2\LR2.2\obj\Debug\LR2._2.SnowflakeForm.resources
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\bin\Debug\LR2.2.exe.config
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\bin\Debug\LR2.2.exe
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\bin\Debug\LR2.2.pdb
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\obj\Debug\LR2.2.csproj.AssemblyReference.cache
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\obj\Debug\LR2.2.csproj.SuggestedBindingRedirects.cache
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\obj\Debug\LR2._2.SnowflakeForm.resources
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\obj\Debug\LR2._2.Properties.Resources.resources
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\obj\Debug\LR2.2.csproj.GenerateResource.cache
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\obj\Debug\LR2.2.csproj.CoreCompileInputs.cache
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\obj\Debug\LR2.2.exe
+D:\Users\class\source\repos\LR2C#\C-LR2\LR2.2\obj\Debug\LR2.2.pdb
